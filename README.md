@@ -1,7 +1,7 @@
 # Submission1AndroidIntermediate
 Ini adalah submission pertama dari Seri [Belajar Pengembangan Aplikasi Android Intermediate](https://www.dicoding.com/academies/352) di Dicoding.
 
-Aplikasi ini dibuat untuk memenuhi tugas Belajar Membuat Aplikasi Android dengan Jetpack Compose karena saya mengikuti program [Bangkit Academy 2023](https://bangkit.academy).
+Aplikasi ini dibuat untuk memenuhi tugas Belajar Pengembangan Aplikasi Android Intermediate karena saya mengikuti program [Bangkit Academy 2023](https://bangkit.academy).
 Project ini mendapatkan :star::star::star::star: dari reviewer.
 
 Apa yang diterapkan di dalam project ini
